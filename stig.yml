@@ -1,4 +1,4 @@
 ---
 - hosts: all
   roles:
-     - { role: RedHatOfficial.rhel8_stig }
+     - { role: redhatofficial.rhel8_stig }
